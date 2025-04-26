@@ -1,0 +1,7 @@
+flutter:
+  assets:
+    - assets/laptop.png
+    - assets/smartphone.png
+    - assets/camera.png
+    - assets/watch.png
+    - assets/headphones.png
